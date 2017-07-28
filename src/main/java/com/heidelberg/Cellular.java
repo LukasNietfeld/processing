@@ -169,7 +169,6 @@ public class Cellular extends PApplet {
         }
     }
 
-
     private class Automaton {
         int iy;
         int ix;
